@@ -1,4 +1,4 @@
-## Explicação do exercício##
+## Explicação do exercício
 
 Em um portal de cursos online, cada usuário possui um código único, representado por
 um número inteiro.
